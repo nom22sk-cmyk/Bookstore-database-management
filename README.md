@@ -14,9 +14,5 @@ A Python program that manages a bookstore inventory using SQLite. You can add, u
 - Python
 - SQLite3
 
-## How to Run
-1. Download or clone this repository
-2. Run the file:
-
 ## Credits
 HyperionDev Data Science Bootcamp
